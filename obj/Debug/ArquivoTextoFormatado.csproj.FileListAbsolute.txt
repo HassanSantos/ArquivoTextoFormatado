@@ -1,0 +1,7 @@
+C:\Users\Monalisa Peres\Documents\Documentos Pessoais\Faculdade\ADS\01-2019\POO\ArquivoTextoFormatado\ArquivoTextoFormatado\ArquivoTextoFormatado\bin\Debug\ArquivoTextoFormatado.exe.config
+C:\Users\Monalisa Peres\Documents\Documentos Pessoais\Faculdade\ADS\01-2019\POO\ArquivoTextoFormatado\ArquivoTextoFormatado\ArquivoTextoFormatado\bin\Debug\ArquivoTextoFormatado.exe
+C:\Users\Monalisa Peres\Documents\Documentos Pessoais\Faculdade\ADS\01-2019\POO\ArquivoTextoFormatado\ArquivoTextoFormatado\ArquivoTextoFormatado\bin\Debug\ArquivoTextoFormatado.pdb
+C:\Users\Monalisa Peres\Documents\Documentos Pessoais\Faculdade\ADS\01-2019\POO\ArquivoTextoFormatado\ArquivoTextoFormatado\ArquivoTextoFormatado\obj\Debug\ArquivoTextoFormatado.csprojAssemblyReference.cache
+C:\Users\Monalisa Peres\Documents\Documentos Pessoais\Faculdade\ADS\01-2019\POO\ArquivoTextoFormatado\ArquivoTextoFormatado\ArquivoTextoFormatado\obj\Debug\ArquivoTextoFormatado.csproj.CoreCompileInputs.cache
+C:\Users\Monalisa Peres\Documents\Documentos Pessoais\Faculdade\ADS\01-2019\POO\ArquivoTextoFormatado\ArquivoTextoFormatado\ArquivoTextoFormatado\obj\Debug\ArquivoTextoFormatado.exe
+C:\Users\Monalisa Peres\Documents\Documentos Pessoais\Faculdade\ADS\01-2019\POO\ArquivoTextoFormatado\ArquivoTextoFormatado\ArquivoTextoFormatado\obj\Debug\ArquivoTextoFormatado.pdb
